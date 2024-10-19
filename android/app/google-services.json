@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "130485921797",
+    "firebase_url": "https://chatmindset-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "chatmindset",
+    "storage_bucket": "chatmindset.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:130485921797:android:1a3b90284f3f84f559d46c",
+        "android_client_info": {
+          "package_name": "com.chat_mindset.com"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDT1mrnmj3a_XUYCjK2jXh1KuAbLGmxO8Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -65,7 +65,7 @@ class _RegisterScreenState extends State<RegisterScreen> {
             child: BlocBuilder<AuthBloc, AuthStates>(
               builder: (context, state) {
                 if (state.appUserRequestState == RequestState.loading) {
-                  return const Center(child: CircularProgressIndicator());
+                  return const Center(child: CircularProgressIndicator(),);
                 } else {
                   return Column(
                     mainAxisAlignment: MainAxisAlignment.center,
